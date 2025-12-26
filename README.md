@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Physiotherapy Clinic Management System <br>🌱 I’m currently working with React JS and Node JS<br>💬 Ask me about anything in development world<br>⚡ Fun fact I love eating Injera
+🔭 I’m currently working on Physiotherapy Clinic Management System <br>🌱 I’m currently working with React JS and Node JS<br>💬 Ask me about anything in development world
 
 
 ## 🌐 Socials:
